@@ -1,3 +1,4 @@
+/* To print all the Numbers which can be divided by 7*/
 #include<stdio.h>
 void main()
 {
