@@ -1,4 +1,4 @@
-/* To print the sum of all the Numbers which can be divided by 7 and is above 100*/
+/* To print the sum of all the Numbers which can be divided by 7 and is above 100 and less than 200*/
 #include<stdio.h>
 void main()
 {
