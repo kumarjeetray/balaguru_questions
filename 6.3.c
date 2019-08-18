@@ -1,4 +1,4 @@
-/* #include<stdio.h>
+/* To find the values in linear equation #include<stdio.h>
 #include<stdlib.h>
 void main()
 {
