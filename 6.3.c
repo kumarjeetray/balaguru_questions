@@ -15,7 +15,7 @@ void main()
     scanf("%d",&d);
     printf("\nEnter m:");
     scanf("%d",&m);
-    printf("ENter n:");
+    printf("Enter n:");
     scanf("%d",&n);
     if((a*d-c*b)==0)
     {
